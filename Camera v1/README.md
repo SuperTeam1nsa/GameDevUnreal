@@ -7,3 +7,5 @@ Gestion des Caméras
 - On peut modifier dans BP_Floor les offset pour changer la vision, les angles peuvent être redéfini aussi selon, mais plus touchy (dans les BP des cams), vue en perspective
 ---
 Les cams se positionnent à l'event beginPlay voilà ;)
+
+Ps: la vue des cams était pas bonne parce que les données de rotation (hardcodées) ne se sauvegardent  pas avec le BP des cams mais avec avec la scene (comme le positionnement) #révélation xD #sorry
